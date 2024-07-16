@@ -1,0 +1,8 @@
+langdetect
+numpy
+pandas
+matplotlib
+scikit-learn
+pyvi
+gensim
+scipy<1.13

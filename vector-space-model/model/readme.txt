@@ -1,0 +1,1 @@
+Run file vector_space_model_for_vi.ipynb to save models (about 1GB) in this folder.

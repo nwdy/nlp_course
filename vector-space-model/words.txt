@@ -1,0 +1,10 @@
+đào_tạo
+giảng_dạy
+trình_độ
+học_tập
+chuyên_môn
+học_thuật
+quản_trị
+nghề_nghiệp
+công_chức
+cao_đẳng
